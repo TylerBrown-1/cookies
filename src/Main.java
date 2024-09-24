@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Hello world!");
         String firstName = "tyler";
         int age = 44;
+        double height = 4.4;
     }
 }
